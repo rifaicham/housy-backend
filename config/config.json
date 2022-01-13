@@ -3,8 +3,8 @@
     "username": "root",
     "password": "root",
     "database": "housy",
-    "host": "database.housy.rifai.xyz",
-    "dialect": "mysql"
+    "host": "172.19.159.25",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
