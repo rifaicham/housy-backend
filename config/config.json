@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sgnd",
-    "password": "sgnd",
+    "username": "root",
+    "password": "root",
     "database": "housy",
-    "host": "127.0.0.1",
+    "host": "database.housy.rifai.xyz",
     "dialect": "mysql"
   },
   "test": {

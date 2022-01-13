@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:10-alpine
 WORKDIR /app
 COPY . .
 RUN npm install
 EXPOSE 5000
-CMD ["npm", "run", "prod"]
+CMD ["npm", "start"]
